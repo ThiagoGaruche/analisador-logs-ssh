@@ -21,15 +21,3 @@ Um script em Python para automação de análise de arquivos de log de autentica
 - **Python 3.x** instalado.
 - Nenhuma biblioteca de terceiros é necessária (utiliza apenas os módulos nativos `re`, `argparse` e `collections`).
 
----
-
-## 💻 Como Usar
-
-### 1. Clonar o Repositório
-```bash
-## 💻 Como Usar
-
-### 1. Clonar o Repositório
-```bash
-git clone [https://github.com/ThiagoGaruche/analisador-logs-ssh.git](https://github.com/ThiagoGaruche/analisador-logs-ssh.git)
-cd analisador-logs-ssh
