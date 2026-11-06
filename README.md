@@ -27,5 +27,9 @@ Um script em Python para automação de análise de arquivos de log de autentica
 
 ### 1. Clonar o Repositório
 ```bash
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-cd NOME_DO_REPOSITORIO
+## 💻 Como Usar
+
+### 1. Clonar o Repositório
+```bash
+git clone [https://github.com/ThiagoGaruche/analisador-logs-ssh.git](https://github.com/ThiagoGaruche/analisador-logs-ssh.git)
+cd analisador-logs-ssh
