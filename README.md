@@ -21,3 +21,8 @@ Um script em Python para automação de análise de arquivos de log de autentica
 - **Python 3.x** instalado.
 - Nenhuma biblioteca de terceiros é necessária (utiliza apenas os módulos nativos `re`, `argparse` e `collections`).
 
+---
+
+## Aviso
+
+Os logs de exemplo são fictícios. Use esta ferramenta apenas em logs de sistemas seus ou autorizados.
